@@ -15,7 +15,7 @@
       "function": {
         "triggerfunction": {
           "deploymentBucketName": "amplify-lambdatrigger-dev-231752-deployment",
-          "s3Key": "amplify-builds/triggerfunction-416d6664746c4d654b65-build.zip"
+          "s3Key": "amplify-builds/triggerfunction-4430564d334252496c4d-build.zip"
         }
       },
       "auth": {
