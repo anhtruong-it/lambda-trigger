@@ -16,10 +16,17 @@
         "triggerfunction": {
           "deploymentBucketName": "amplify-lambdatrigger-dev-231752-deployment",
           "s3Key": "amplify-builds/triggerfunction-4430564d334252496c4d-build.zip"
+        },
+        "S3Trigger76b14ed1": {
+          "deploymentBucketName": "amplify-lambdatrigger-dev-231752-deployment",
+          "s3Key": "amplify-builds/S3Trigger76b14ed1-46377a7a665963705a63-build.zip"
         }
       },
       "auth": {
         "lambdatrigger64c76f66": {}
+      },
+      "storage": {
+        "storage": {}
       }
     }
   }
